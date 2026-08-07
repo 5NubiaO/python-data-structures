@@ -1,2 +1,2 @@
-# python-basics-portfolio
-Begginer Python practice projects
+# python-data-structures
+thinking
