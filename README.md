@@ -26,4 +26,4 @@ Click on any `.py` file → click the raw button → copy the code into Visual S
 - [x] Lists
 - [ ] Dictionaries
 - [ ] Sets
-- [ ] Tuples
+- [x] Tuples
