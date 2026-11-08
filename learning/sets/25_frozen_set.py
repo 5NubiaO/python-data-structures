@@ -7,4 +7,4 @@ print(f"Intersection with {3,4,5,6}:{fs.intersection({3,4,5,6})}")
 try:
     print(fs.add(4))
 except AttributeError as e:
-    print(f"Error:, {e}")
+    print(f"Error:{e}")
