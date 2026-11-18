@@ -7,3 +7,8 @@ student = {"name": "Dave", "grades": {"math": 88, "science": 92, "history": 75}}
 print(f"Math grade:",student.get('grades',{}).get('math'))
 print(f"Science grade:",student['grades']['science'])
 
+maxim = max(student.get('grades',{}))
+print(f"The highest was",maxim, "with", student['grades'][maxim])
+
+mini = min(student.get('grades',{}))
+print(f"The lowest was",mini,"with", student['grades'][mini])
